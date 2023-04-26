@@ -1,4 +1,4 @@
-# Team-1-Project
+# Team-1
 
 Banking software for loan request application.
 
